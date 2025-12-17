@@ -1,0 +1,7 @@
+pip install web3
+
+npm install -g ganache-cli
+
+run ganache:----
+
+ganache-cli -d
